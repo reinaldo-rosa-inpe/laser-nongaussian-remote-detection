@@ -1,0 +1,16 @@
+phi0,model,wins,total_realizations,win_fraction
+0.05,Normal,0,100,0.0
+0.05,Student-t,100,100,1.0
+0.05,Generalized Normal,0,100,0.0
+0.1,Normal,0,100,0.0
+0.1,Student-t,100,100,1.0
+0.1,Generalized Normal,0,100,0.0
+0.2,Normal,0,100,0.0
+0.2,Student-t,100,100,1.0
+0.2,Generalized Normal,0,100,0.0
+0.3,Normal,0,100,0.0
+0.3,Student-t,100,100,1.0
+0.3,Generalized Normal,0,100,0.0
+0.5,Normal,0,100,0.0
+0.5,Student-t,100,100,1.0
+0.5,Generalized Normal,0,100,0.0
