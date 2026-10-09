@@ -72,6 +72,8 @@ Publication figure files are written to:
 
 Other plots, such as `output1.*`, `output2.*`, and diagnostic figures, are exploratory/diagnostic outputs and **are not the manuscript publication figures**.
 
+Additional diagnostic plots are automatically generated during notebook execution for exploratory inspection. These intermediate figures are not included in the reproducibility package, as they are not part of the published manuscript.
+
 ## 6. Supplementary Information S1
 
 `Supplementary_Information_S1.tex` and its compiled PDF document the computational pipeline, physical/numerical parameter selection, development through five numerical experiments, Monte Carlo methodology, statistical characterization, reproducibility, and the limitations of the numerical proof of principle.
