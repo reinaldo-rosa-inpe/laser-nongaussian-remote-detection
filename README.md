@@ -18,7 +18,7 @@ The model propagates a coherent Gaussian beam using an FFT-based Fresnel calcula
 
 The complete numerical implementation is available directly in this GitHub repository in two complementary formats:
 
-- **Python source code:** [`code/rsos_Laser_Study_Consolidated.py`](code/rsos_Laser_Study_Consolidated.py) — for direct inspection of the computational algorithms, numerical methods, and statistical analysis.
+- **Python source code:** [`code/rsos_laser_study_consolidated.py`](code/rsos_laser_study_consolidated.py) — for direct inspection of the computational algorithms, numerical methods, and statistical analysis.
 - **Jupyter Notebook:** [`code/RSOS_Laser_Study_Consolidated.ipynb`](code/RSOS_Laser_Study_Consolidated.ipynb) — for interactive execution and reproduction of the numerical results.
 
 ### Running the simulation
