@@ -1,0 +1,24 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata in this file."
+type: software
+
+title: "Non-Gaussian Residual Analysis for Remote Laser Beam Perturbation Detection"
+
+authors:
+  - family-names: "Neri-Silva"
+    given-names: "Gerson"
+  - family-names: "Rosa"
+    given-names: "Reinaldo Roberto"
+
+repository-code: "https://github.com/reinaldo-rosa-inpe/laser-nongaussian-remote-detection"
+
+version: "1.0.0"
+date-released: 2026-10-09
+
+abstract: >-
+  Reproducible numerical implementation of coherent Gaussian laser beam
+  propagation, localized phase perturbations, non-Gaussian residual
+  statistics, statistical model comparison, spatial autocorrelation,
+  and Monte Carlo analysis for remote perturbation detection.
+```
