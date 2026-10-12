@@ -1,4 +1,3 @@
-```yaml
 cff-version: 1.2.0
 message: "If you use this software in your research, please cite it using the metadata in this file."
 type: software
@@ -21,4 +20,3 @@ abstract: >-
   propagation, localized phase perturbations, non-Gaussian residual
   statistics, statistical model comparison, spatial autocorrelation,
   and Monte Carlo analysis for remote perturbation detection.
-```
