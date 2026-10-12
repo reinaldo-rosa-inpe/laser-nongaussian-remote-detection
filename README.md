@@ -125,6 +125,15 @@ Recommended validation before depositing a permanent Zenodo release: run the not
 
 The intended release contains the consolidated notebook, this README, the supplementary LaTeX/PDF, the six generated CSV files, and manuscript publication figures. The Figure 1 conceptual schematic may be distributed separately with the manuscript, subject to the journal's AI-use disclosure and figure provenance documentation.
 
-**Repository and archival DOI:** To be added after the GitHub repository and Zenodo deposit have been created. No DOI is claimed at this stage.
+## Citation and Archival DOI
 
-**Citation and license:** To be completed by the authors before public release.
+The computational reproducibility package is permanently archived on Zenodo.
+
+**Software citation:**
+
+Neri-Silva, G., & Rosa, R. R. (2026). *Non-Gaussian Residual Analysis for Remote Laser Beam Perturbation Detection* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23308232
+
+**Archived release:** [Zenodo v1.0.0](https://doi.org/10.5281/zenodo.23308232)
+
+**Source repository:** [GitHub](https://github.com/reinaldo-rosa-inpe/laser-nongaussian-remote-detection)
+
